@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Proyecto_20266787\Repositorio\bin\Debug\Repositorio.dll.config
+C:\Users\User\source\repos\Proyecto_20266787\Repositorio\bin\Debug\Repositorio.dll
+C:\Users\User\source\repos\Proyecto_20266787\Repositorio\bin\Debug\Repositorio.pdb
+C:\Users\User\source\repos\Proyecto_20266787\Repositorio\bin\Debug\EntityFramework.dll
+C:\Users\User\source\repos\Proyecto_20266787\Repositorio\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\source\repos\Proyecto_20266787\Repositorio\bin\Debug\Modelo.dll
+C:\Users\User\source\repos\Proyecto_20266787\Repositorio\bin\Debug\Modelo.pdb
+C:\Users\User\source\repos\Proyecto_20266787\Repositorio\bin\Debug\Modelo.dll.config
+C:\Users\User\source\repos\Proyecto_20266787\Repositorio\bin\Debug\EntityFramework.xml
+C:\Users\User\source\repos\Proyecto_20266787\Repositorio\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\source\repos\Proyecto_20266787\Repositorio\obj\Debug\Repositorio.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Proyecto_20266787\Repositorio\obj\Debug\Repositorio.csproj.CopyComplete
+C:\Users\User\source\repos\Proyecto_20266787\Repositorio\obj\Debug\Repositorio.dll
+C:\Users\User\source\repos\Proyecto_20266787\Repositorio\obj\Debug\Repositorio.pdb
